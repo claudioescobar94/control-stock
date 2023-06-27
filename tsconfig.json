@@ -25,7 +25,7 @@
   "exclude": [
     "node_modules",
     "dist",
-    "build",
+    "build.next",
   ],
   "ts-node": {
     "transpileOnly": true,
